@@ -1,6 +1,6 @@
 <?php
 namespace App\Core;
-// version updated 2
+// version updated 9
 class CoreService
 {
     public static function getVersion()

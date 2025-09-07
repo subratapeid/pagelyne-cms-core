@@ -3,14 +3,14 @@
         "name": "Test Plugin1",
         "slug": "test-plugin",
         "version": "1.0.0",
-        "remote_url": "https://raw.githubusercontent.com/subratapeid/cms-cor/main/my-test-plugin",
+        "remote_url": "https://raw.githubusercontent.com/subratapeid/pagelyne-cms-core/main/my-test-plugin",
         "description": "This is a test plugin."
     },
     {
         "name": "Sample Plugin",
         "slug": "sample-plugin",
         "version": "1.2.0",
-        "remote_url": "https://raw.githubusercontent.com/username/sample-plugin/main",
+        "remote_url": "https://raw.githubusercontent.com/subratapeid/pagelyne-cms-core/main/my-test-plugin",
         "description": "Sample plugin example."
     }
 ]

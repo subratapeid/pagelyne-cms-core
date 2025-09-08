@@ -1,7 +1,7 @@
 [
     {
-        "name": "Test Plugin1",
-        "slug": "test-plugin",
+        "name": "Test Plugin",
+        "slug": "TestPlugin",
         "version": "1.0.0",
         "remote_url": "https://raw.githubusercontent.com/subratapeid/pagelyne-cms-core/main/my-test-plugin",
         "description": "This is a test plugin."
